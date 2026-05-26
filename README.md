@@ -142,10 +142,6 @@ inventasell/
 
 ---
 
-## 📸 Screenshots
-
-> *(Tambahkan screenshot aplikasi di sini)*
-
 ---
 
 ## 🤝 Kontribusi
